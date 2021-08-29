@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Aex | Falling in Love with Node.js | [https://github.com/adaex](https://https://github.com/adaex) | Shanghai | - |
 
-## Followers <kbd>15</kbd>
+## Followers <kbd>16</kbd>
 
 <table>
   <tr>
@@ -119,11 +119,27 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/sxzz">
+        <img src="https://avatars.githubusercontent.com/u/6481596?v=4" width="50" />
+        <br />
+        sxzz
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
       <a href="https://github.com/bobolu">
         <img src="https://avatars.githubusercontent.com/u/2543333?v=4" width="50" />
         <br />
         bobolu
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
