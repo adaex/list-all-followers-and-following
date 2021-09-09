@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Aex | Falling in Love with Node.js | [https://github.com/adaex](https://https://github.com/adaex) | Shanghai | - |
 
-## Followers <kbd>17</kbd>
+## Followers <kbd>18</kbd>
 
 <table>
   <tr>
@@ -69,6 +69,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/XiaoZiShan">
+        <img src="https://avatars.githubusercontent.com/u/33439399?v=4" width="50" />
+        <br />
+        XiaoZiShan
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/lyfyy">
         <img src="https://avatars.githubusercontent.com/u/32640311?v=4" width="50" />
         <br />
@@ -82,6 +89,7 @@
         aex-bot
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/imswk">
         <img src="https://avatars.githubusercontent.com/u/23303044?v=4" width="50" />
@@ -89,7 +97,6 @@
         imswk
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/willerhe">
         <img src="https://avatars.githubusercontent.com/u/19788331?v=4" width="50" />
@@ -118,6 +125,7 @@
         Zohar727
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/pithyone">
         <img src="https://avatars.githubusercontent.com/u/8215934?v=4" width="50" />
@@ -125,7 +133,6 @@
         pithyone
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/sxzz">
         <img src="https://avatars.githubusercontent.com/u/6481596?v=4" width="50" />
@@ -139,8 +146,6 @@
         <br />
         bobolu
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
