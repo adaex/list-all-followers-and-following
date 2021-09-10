@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Aex | Falling in Love with Node.js | [https://github.com/adaex](https://https://github.com/adaex) | Shanghai | - |
 
-## Followers <kbd>18</kbd>
+## Followers <kbd>19</kbd>
 
 <table>
   <tr>
@@ -91,6 +91,13 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
+      <a href="https://github.com/msidolphin">
+        <img src="https://avatars.githubusercontent.com/u/26672484?v=4" width="50" />
+        <br />
+        msidolphin
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/imswk">
         <img src="https://avatars.githubusercontent.com/u/23303044?v=4" width="50" />
         <br />
@@ -118,6 +125,7 @@
         NeverFades
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Zohar727">
         <img src="https://avatars.githubusercontent.com/u/14219510?v=4" width="50" />
@@ -125,7 +133,6 @@
         Zohar727
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/pithyone">
         <img src="https://avatars.githubusercontent.com/u/8215934?v=4" width="50" />
@@ -146,8 +153,6 @@
         <br />
         bobolu
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
