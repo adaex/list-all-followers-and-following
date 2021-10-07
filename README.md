@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Aex | Falling in Love with Node.js | [https://github.com/adaex](https://https://github.com/adaex) | Shanghai | - |
 
-## Followers <kbd>19</kbd>
+## Followers <kbd>20</kbd>
 
 <table>
   <tr>
@@ -40,12 +40,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/feiyu-git">
+        <img src="https://avatars.githubusercontent.com/u/57039329?v=4" width="50" />
+        <br />
+        feiyu-git
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/JinYuHub">
         <img src="https://avatars.githubusercontent.com/u/46179617?v=4" width="50" />
         <br />
         JinYuHub
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/claretnnamocha">
         <img src="https://avatars.githubusercontent.com/u/43606892?v=4" width="50" />
@@ -53,7 +61,6 @@
         claretnnamocha
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AliceFL">
         <img src="https://avatars.githubusercontent.com/u/40189366?v=4" width="50" />
@@ -82,6 +89,7 @@
         lyfyy
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/aex-bot">
         <img src="https://avatars.githubusercontent.com/u/28971422?v=4" width="50" />
@@ -89,7 +97,6 @@
         aex-bot
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/msidolphin">
         <img src="https://avatars.githubusercontent.com/u/26672484?v=4" width="50" />
@@ -118,6 +125,7 @@
         WhtCmiss
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/NeverFades">
         <img src="https://avatars.githubusercontent.com/u/16190010?v=4" width="50" />
@@ -125,7 +133,6 @@
         NeverFades
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Zohar727">
         <img src="https://avatars.githubusercontent.com/u/14219510?v=4" width="50" />
@@ -153,8 +160,6 @@
         <br />
         bobolu
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>
