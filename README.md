@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Aex | Falling in Love with Node.js | [https://github.com/adaex](https://https://github.com/adaex) | Shanghai | - |
 
-## Followers <kbd>20</kbd>
+## Followers <kbd>21</kbd>
 
 <table>
   <tr>
@@ -160,6 +160,22 @@
         <br />
         bobolu
       </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/eduardomoraes">
+        <img src="https://avatars.githubusercontent.com/u/387542?v=4" width="50" />
+        <br />
+        eduardomoraes
+      </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
