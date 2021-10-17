@@ -14,15 +14,36 @@
 | -- | -- | -- | -- | -- |
 | Aex | Falling in Love with Node.js | [https://github.com/adaex](https://https://github.com/adaex) | Shanghai | - |
 
-## Followers <kbd>21</kbd>
+## Followers <kbd>27</kbd>
 
 <table>
   <tr>
+    <td width="150" align="center">
+      <a href="https://github.com/Top-coder-1">
+        <img src="https://avatars.githubusercontent.com/u/87107784?v=4" width="50" />
+        <br />
+        Top-coder-1
+      </a>
+    </td>
     <td width="150" align="center">
       <a href="https://github.com/Rycaba">
         <img src="https://avatars.githubusercontent.com/u/87093969?v=4" width="50" />
         <br />
         Rycaba
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/Griphcode">
+        <img src="https://avatars.githubusercontent.com/u/83134526?v=4" width="50" />
+        <br />
+        Griphcode
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/erikfritas">
+        <img src="https://avatars.githubusercontent.com/u/74334533?v=4" width="50" />
+        <br />
+        erikfritas
       </a>
     </td>
     <td width="150" align="center">
@@ -32,11 +53,19 @@
         katieyao
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Loong9669">
         <img src="https://avatars.githubusercontent.com/u/57898409?v=4" width="50" />
         <br />
         Loong9669
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/TarekMESSAOUDI">
+        <img src="https://avatars.githubusercontent.com/u/57331210?v=4" width="50" />
+        <br />
+        TarekMESSAOUDI
       </a>
     </td>
     <td width="150" align="center">
@@ -47,6 +76,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/romanofficial">
+        <img src="https://avatars.githubusercontent.com/u/47697490?v=4" width="50" />
+        <br />
+        romanofficial
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/JinYuHub">
         <img src="https://avatars.githubusercontent.com/u/46179617?v=4" width="50" />
         <br />
@@ -54,6 +90,13 @@
       </a>
     </td>
   </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/rc-chuah">
+        <img src="https://avatars.githubusercontent.com/u/44928288?v=4" width="50" />
+        <br />
+        rc-chuah
+      </a>
+    </td>
     <td width="150" align="center">
       <a href="https://github.com/claretnnamocha">
         <img src="https://avatars.githubusercontent.com/u/43606892?v=4" width="50" />
@@ -82,6 +125,7 @@
         XiaoZiShan
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lyfyy">
         <img src="https://avatars.githubusercontent.com/u/32640311?v=4" width="50" />
@@ -89,7 +133,6 @@
         lyfyy
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/aex-bot">
         <img src="https://avatars.githubusercontent.com/u/28971422?v=4" width="50" />
@@ -118,6 +161,7 @@
         willerhe
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/WhtCmiss">
         <img src="https://avatars.githubusercontent.com/u/16513083?v=4" width="50" />
@@ -125,7 +169,6 @@
         WhtCmiss
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/NeverFades">
         <img src="https://avatars.githubusercontent.com/u/16190010?v=4" width="50" />
@@ -154,6 +197,7 @@
         sxzz
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/bobolu">
         <img src="https://avatars.githubusercontent.com/u/2543333?v=4" width="50" />
@@ -161,15 +205,12 @@
         bobolu
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/eduardomoraes">
         <img src="https://avatars.githubusercontent.com/u/387542?v=4" width="50" />
         <br />
         eduardomoraes
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
