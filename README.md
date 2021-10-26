@@ -14,17 +14,10 @@
 | -- | -- | -- | -- | -- |
 | Aex | Falling in Love with Node.js | [https://github.com/adaex](https://https://github.com/adaex) | Shanghai | - |
 
-## Followers <kbd>28</kbd>
+## Followers <kbd>26</kbd>
 
 <table>
   <tr>
-    <td width="150" align="center">
-      <a href="https://github.com/React-expert-web-developer-1">
-        <img src="https://avatars.githubusercontent.com/u/87107784?v=4" width="50" />
-        <br />
-        React-expert-web-developer-1
-      </a>
-    </td>
     <td width="150" align="center">
       <a href="https://github.com/Rycaba">
         <img src="https://avatars.githubusercontent.com/u/87093969?v=4" width="50" />
@@ -40,20 +33,12 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/erikfritas">
-        <img src="https://avatars.githubusercontent.com/u/74334533?v=4" width="50" />
-        <br />
-        erikfritas
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/katieyao">
         <img src="https://avatars.githubusercontent.com/u/70366320?v=4" width="50" />
         <br />
         katieyao
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Loong9669">
         <img src="https://avatars.githubusercontent.com/u/57898409?v=4" width="50" />
@@ -68,6 +53,7 @@
         TarekMESSAOUDI
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/feiyu-git">
         <img src="https://avatars.githubusercontent.com/u/57039329?v=4" width="50" />
@@ -89,7 +75,6 @@
         JinYuHub
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/rc-chuah">
         <img src="https://avatars.githubusercontent.com/u/44928288?v=4" width="50" />
@@ -104,6 +89,7 @@
         claretnnamocha
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AliceFL">
         <img src="https://avatars.githubusercontent.com/u/40189366?v=4" width="50" />
@@ -125,7 +111,6 @@
         XiaoZiShan
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lyfyy">
         <img src="https://avatars.githubusercontent.com/u/32640311?v=4" width="50" />
@@ -140,6 +125,7 @@
         aex-bot
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/msidolphin">
         <img src="https://avatars.githubusercontent.com/u/26672484?v=4" width="50" />
@@ -161,7 +147,6 @@
         willerhe
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/WhtCmiss">
         <img src="https://avatars.githubusercontent.com/u/16513083?v=4" width="50" />
@@ -176,6 +161,7 @@
         NeverFades
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Zohar727">
         <img src="https://avatars.githubusercontent.com/u/14219510?v=4" width="50" />
@@ -197,7 +183,6 @@
         pithyone
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/sxzz">
         <img src="https://avatars.githubusercontent.com/u/6481596?v=4" width="50" />
@@ -212,12 +197,17 @@
         bobolu
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/eduardomoraes">
         <img src="https://avatars.githubusercontent.com/u/387542?v=4" width="50" />
         <br />
         eduardomoraes
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
