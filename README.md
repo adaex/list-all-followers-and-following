@@ -14,10 +14,17 @@
 | -- | -- | -- | -- | -- |
 | Aex | Falling in Love with Node.js | [https://github.com/adaex](https://https://github.com/adaex) | Shanghai | - |
 
-## Followers <kbd>26</kbd>
+## Followers <kbd>27</kbd>
 
 <table>
   <tr>
+    <td width="150" align="center">
+      <a href="https://github.com/yoki31">
+        <img src="https://avatars.githubusercontent.com/u/92575117?v=4" width="50" />
+        <br />
+        yoki31
+      </a>
+    </td>
     <td width="150" align="center">
       <a href="https://github.com/Rycaba">
         <img src="https://avatars.githubusercontent.com/u/87093969?v=4" width="50" />
@@ -46,6 +53,7 @@
         Loong9669
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/TarekMESSAOUDI">
         <img src="https://avatars.githubusercontent.com/u/57331210?v=4" width="50" />
@@ -53,7 +61,6 @@
         TarekMESSAOUDI
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/feiyu-git">
         <img src="https://avatars.githubusercontent.com/u/57039329?v=4" width="50" />
@@ -82,6 +89,7 @@
         rc-chuah
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/claretnnamocha">
         <img src="https://avatars.githubusercontent.com/u/43606892?v=4" width="50" />
@@ -89,7 +97,6 @@
         claretnnamocha
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/AliceFL">
         <img src="https://avatars.githubusercontent.com/u/40189366?v=4" width="50" />
@@ -118,6 +125,7 @@
         lyfyy
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/aex-bot">
         <img src="https://avatars.githubusercontent.com/u/28971422?v=4" width="50" />
@@ -125,7 +133,6 @@
         aex-bot
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/msidolphin">
         <img src="https://avatars.githubusercontent.com/u/26672484?v=4" width="50" />
@@ -154,6 +161,7 @@
         WhtCmiss
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/NeverFades">
         <img src="https://avatars.githubusercontent.com/u/16190010?v=4" width="50" />
@@ -161,7 +169,6 @@
         NeverFades
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Zohar727">
         <img src="https://avatars.githubusercontent.com/u/14219510?v=4" width="50" />
@@ -190,6 +197,7 @@
         sxzz
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/bobolu">
         <img src="https://avatars.githubusercontent.com/u/2543333?v=4" width="50" />
@@ -197,7 +205,6 @@
         bobolu
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/eduardomoraes">
         <img src="https://avatars.githubusercontent.com/u/387542?v=4" width="50" />
@@ -211,12 +218,10 @@
     </td>
     <td width="150" align="center">
     </td>
-    <td width="150" align="center">
-    </td>
   </tr>
 </table>
 
-## Following <kbd>6</kbd>
+## Following <kbd>4</kbd>
 
 <table>
   <tr>
@@ -225,20 +230,6 @@
         <img src="https://avatars.githubusercontent.com/u/8215934?v=4" width="50" />
         <br />
         pithyone
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/NeverFades">
-        <img src="https://avatars.githubusercontent.com/u/16190010?v=4" width="50" />
-        <br />
-        NeverFades
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/mytac">
-        <img src="https://avatars.githubusercontent.com/u/17641146?v=4" width="50" />
-        <br />
-        mytac
       </a>
     </td>
     <td width="150" align="center">
@@ -255,19 +246,12 @@
         imswk
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/YunYouJun">
         <img src="https://avatars.githubusercontent.com/u/25154432?v=4" width="50" />
         <br />
         YunYouJun
       </a>
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
