@@ -221,10 +221,17 @@
   </tr>
 </table>
 
-## Following <kbd>4</kbd>
+## Following <kbd>5</kbd>
 
 <table>
   <tr>
+    <td width="150" align="center">
+      <a href="https://github.com/fouber">
+        <img src="https://avatars.githubusercontent.com/u/536297?v=4" width="50" />
+        <br />
+        fouber
+      </a>
+    </td>
     <td width="150" align="center">
       <a href="https://github.com/pithyone">
         <img src="https://avatars.githubusercontent.com/u/8215934?v=4" width="50" />
@@ -252,8 +259,6 @@
         <br />
         YunYouJun
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>
