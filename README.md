@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Aex | Falling in Love with Node.js | [https://github.com/adaex](https://https://github.com/adaex) | Shanghai | - |
 
-## Followers <kbd>29</kbd>
+## Followers <kbd>31</kbd>
 
 <table>
   <tr>
@@ -69,6 +69,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/ihoneys">
+        <img src="https://avatars.githubusercontent.com/u/53587519?v=4" width="50" />
+        <br />
+        ihoneys
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/romanofficial">
         <img src="https://avatars.githubusercontent.com/u/47697490?v=4" width="50" />
         <br />
@@ -82,6 +89,7 @@
         JinYuHub
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/rc-chuah">
         <img src="https://avatars.githubusercontent.com/u/44928288?v=4" width="50" />
@@ -89,7 +97,6 @@
         rc-chuah
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/claretnnamocha">
         <img src="https://avatars.githubusercontent.com/u/43606892?v=4" width="50" />
@@ -118,6 +125,14 @@
         XiaoZiShan
       </a>
     </td>
+  </tr><tr>
+    <td width="150" align="center">
+      <a href="https://github.com/Tobevictor">
+        <img src="https://avatars.githubusercontent.com/u/33147435?v=4" width="50" />
+        <br />
+        Tobevictor
+      </a>
+    </td>
     <td width="150" align="center">
       <a href="https://github.com/lyfyy">
         <img src="https://avatars.githubusercontent.com/u/32640311?v=4" width="50" />
@@ -125,7 +140,6 @@
         lyfyy
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/aex-bot">
         <img src="https://avatars.githubusercontent.com/u/28971422?v=4" width="50" />
@@ -147,6 +161,7 @@
         SunQQQ
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/imswk">
         <img src="https://avatars.githubusercontent.com/u/23303044?v=4" width="50" />
@@ -161,7 +176,6 @@
         willerhe
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/milg15">
         <img src="https://avatars.githubusercontent.com/u/16924758?v=4" width="50" />
@@ -183,6 +197,7 @@
         NeverFades
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Zohar727">
         <img src="https://avatars.githubusercontent.com/u/14219510?v=4" width="50" />
@@ -197,7 +212,6 @@
         Otto-J
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/pithyone">
         <img src="https://avatars.githubusercontent.com/u/8215934?v=4" width="50" />
@@ -219,12 +233,19 @@
         bobolu
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/eduardomoraes">
         <img src="https://avatars.githubusercontent.com/u/387542?v=4" width="50" />
         <br />
         eduardomoraes
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
