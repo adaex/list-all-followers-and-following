@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | Aex | Falling in Love with Node.js | [https://github.com/adaex](https://https://github.com/adaex) | Shanghai | - |
 
-## Followers <kbd>31</kbd>
+## Followers <kbd>32</kbd>
 
 <table>
   <tr>
@@ -141,6 +141,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/AviciiLee">
+        <img src="https://avatars.githubusercontent.com/u/29219062?v=4" width="50" />
+        <br />
+        AviciiLee
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/aex-bot">
         <img src="https://avatars.githubusercontent.com/u/28971422?v=4" width="50" />
         <br />
@@ -154,6 +161,7 @@
         msidolphin
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/SunQQQ">
         <img src="https://avatars.githubusercontent.com/u/24430020?v=4" width="50" />
@@ -161,7 +169,6 @@
         SunQQQ
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/imswk">
         <img src="https://avatars.githubusercontent.com/u/23303044?v=4" width="50" />
@@ -190,6 +197,7 @@
         WhtCmiss
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/NeverFades">
         <img src="https://avatars.githubusercontent.com/u/16190010?v=4" width="50" />
@@ -197,7 +205,6 @@
         NeverFades
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Zohar727">
         <img src="https://avatars.githubusercontent.com/u/14219510?v=4" width="50" />
@@ -226,6 +233,7 @@
         sxzz
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/bobolu">
         <img src="https://avatars.githubusercontent.com/u/2543333?v=4" width="50" />
@@ -233,15 +241,12 @@
         bobolu
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/eduardomoraes">
         <img src="https://avatars.githubusercontent.com/u/387542?v=4" width="50" />
         <br />
         eduardomoraes
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
